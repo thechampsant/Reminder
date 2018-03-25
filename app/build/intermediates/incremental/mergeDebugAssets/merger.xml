@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/santoshprasad/Desktop/medicineAlert/app/src/main/assets"><file name="logback.xml" path="/Users/santoshprasad/Desktop/medicineAlert/app/src/main/assets/logback.xml"/></source><source path="/Users/santoshprasad/Desktop/medicineAlert/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/santoshprasad/Desktop/medicineAlert/app/src/debug/assets"/></dataSet></merger>

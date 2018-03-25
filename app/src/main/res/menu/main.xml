@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_about"
+        android:layout_margin="0dp"
+        android:icon="@drawable/btn_about"
+        android:padding="0dp"
+        android:title="@string/action_about"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/btn_add"
+        android:title="@string/add_event"
+        app:showAsAction="ifRoom"/>
+
+</menu>

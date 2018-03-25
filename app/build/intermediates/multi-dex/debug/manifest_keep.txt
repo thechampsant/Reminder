@@ -1,0 +1,3 @@
+# Referenced at /Users/santoshprasad/Desktop/medicineAlert/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:30
+-keep class com.softparticle.miedicinealert.MedicineAlertApp { <init>(...); }
+

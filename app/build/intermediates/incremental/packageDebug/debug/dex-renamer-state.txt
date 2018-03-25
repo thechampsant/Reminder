@@ -1,0 +1,7 @@
+#Sun Jan 21 10:52:08 IST 2018
+base.0=/Users/santoshprasad/Desktop/medicineAlert/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/santoshprasad/Desktop/medicineAlert/app/build/intermediates/transforms/dexMerger/debug/0
